@@ -43,7 +43,7 @@
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/dashboard/{{ Auth::user()->user_id }}">dashboard</a>
+                                    <a class="nav-link" href="/dashboard/1">dashboard</a>
                                 </li>
 
                                 

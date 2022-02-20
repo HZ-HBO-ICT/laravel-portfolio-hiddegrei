@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container">
-    show
+    <img src="/storage/{{$post->image}}" alt="">
    
 </div>
 @endsection
